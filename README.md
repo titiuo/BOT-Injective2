@@ -7,7 +7,7 @@
 This repository contains two main components for interacting with the Injective ecosystem:
 
 - **Bot**: Automated scripts for executing tasks on the Injective blockchain.
-- **Hand**: Additional tools and functionalities to support the bot's operations.
+- **hand**: This was the initial version of the script, which was originally designed to scrape smart contracts and suggest potential purchases, without executing automatic buys.
 
 ## Repository Structure
 
