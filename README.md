@@ -34,7 +34,3 @@ The `main.py` script automates the detection and purchase of newly created coins
 
 This process ensures that the bot can detect and buy new coins as soon as they become available.
 
-
-### Hand
-
-This directory includes supplementary tools to enhance the bot's performance. Features include:
