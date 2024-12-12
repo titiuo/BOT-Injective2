@@ -19,7 +19,7 @@ This directory contains the core automation scripts.
 The `main.py` script automates the detection and purchase of newly created coins on the Injective blockchain. It follows these steps:
 
 1. **Scrape Smart Contracts**:  
-   The script scans all smart contracts (SC) deployed on the blockchain.
+   The script scans all smart contracts deployed on the blockchain.
 
 2. **Detect Coin Creation**:  
    It checks if a new coin creation event is present in the messages associated with each smart contract.
