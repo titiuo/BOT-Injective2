@@ -1,6 +1,8 @@
 # BOT-Injective
 
-**⚠️ Note:** This project is no longer functional due to updates in the Injective API that have rendered the code obsolete.
+**⚠️** This project is no longer functional due to updates in the Injective API that have rendered the code obsolete. **⚠️**
+
+**Note:** The commit history of this project has been removed before making it public because my private key appeared multiple times in the files.
 
 ## Overview
 
